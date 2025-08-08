@@ -1,1 +1,1 @@
-My portfoilo, the "lack of CSS" is intentional as Zach Latta quoted
+My portfolio, with a tiny bit of CSS!
